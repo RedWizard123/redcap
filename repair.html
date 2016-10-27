@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="css/main.css" rel="stylesheet" type="text/css"/>
+    <link href="css/repair.css" rel="stylesheet" type="text/css"/>
+    <link href="css/clearfix.css" rel="stylesheet" type="text/css"/>
+    <script src="js/main.js"></script>
+    <script src="js/request.js"></script>
+    <script src="js/put_data.js"></script>
+
+    <title>小红帽志愿服务队</title>
+</head>
+<body>
+<header>
+    <div class="header-nav-bar-div">
+        <ul class="header-nav-bar-ul clearfix">
+            <li class="header-nav-bar-ul-li" style="width:20%;text-align: left;padding:0 10px 0 0;">
+                <ul id="header-menu-line-ul">
+                    <li><div class="header-menu-line-div"></div></li>
+                    <li><div class="header-menu-line-div"></div></li>
+                    <li><div class="header-menu-line-div"></div></li>
+                </ul>
+            </li>
+            <li class="header-nav-bar-ul-li" style="width:60%;">
+                <div><p>小红帽志愿服务队</p></div>
+            </li>
+            <li class="header-nav-bar-ul-li" style="width:20%;text-align: right;padding:0 10px 0 0;">
+                <img src="images/icon.png" class="icon-redcap-img"/>
+            </li>
+        </ul>
+        <div class="header-menu-main-div">
+            <ul class="header-menu-main-ul">
+                <a href="index.html"><li>&nbsp;&nbsp;主页</li></a>
+                <a href="repair.html"> <li>&nbsp;&nbsp;电器报修</li></a>
+                <a href="introduction.html"><li>&nbsp;&nbsp;小红帽简介</li></a>
+                <a href="members.html"><li>&nbsp;&nbsp;成员风采</li></a>
+                <a href="files.html"><li>&nbsp;&nbsp;学习资料</li></a>
+                <a href="hire.html"> <li>&nbsp;&nbsp;招新入口</li></a>
+                <a href="about.html"><li>&nbsp;&nbsp;关于&联系方式</li></a>
+            </ul>
+
+        </div>
+    </div>
+</header>
+<div class="main-edit-div">
+    <div class="main-edit-title-div">
+        <p>填写维修申请</p>
+    </div>
+    <div class="main-edit-body-div">
+        <div class="main-edit-sub-div">
+            <p>你的名字：</p>
+            <input name="name" class="text-normal form_text_onblur" id="name" placeholder="请填写真实的姓名" onfocus="form_text_onfoucs(this);" onblur="form_text_onblur(this);check_blur(this);"/>
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <p>住址/宿舍：</p>
+            <input name="address" class="text-normal form_text_onblur" id="address" placeholder="如：韵苑23#603" onfocus="form_text_onfoucs(this);" onblur="form_text_onblur(this);check_blur(this);" />
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <p>院系-专业-年级:</p>
+            <input name="grade" class="text-normal form_text_onblur" id="grade" placeholder="方便我们派人" onfocus="form_text_onfoucs(this);" onblur="form_text_onblur(this);check_blur(this);" />
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <p>联系电话：</p>
+            <input name="phone" class="text-normal form_text_onblur" id="phone" placeholder="务必真实填写" onfocus="form_text_onfoucs(this);" onblur="form_text_onblur(this);check_blur(this);"/>
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <p>QQ/微信：</p>
+            <input name="qq" class="text-normal form_text_onblur" id="qq" placeholder="务必真实填写" onfocus="form_text_onfoucs(this);" onblur="form_text_onblur(this);check_blur(this);"/>
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <p>电器名称：</p>
+            <input name="item_name" class="text-normal form_text_onblur" id="item_name" placeholder="如：电风扇" onfocus="form_text_onfoucs(this);" onblur="form_text_onblur(this);check_blur(this);"/>
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <p>问题情况：</p>
+            <textarea id="problem" class="textarea-normal" placeholder="简要的说明一下问题" onblur="this.style.border='1px solid white';" onfocus="this.style.border='1px solid rgb(1,165,250)';"></textarea>
+            <a class="text-del-all"></a>
+        </div>
+        <div class="main-edit-sub-div">
+            <button class="main-edit-button" onclick="check(this);">立刻提交</button>
+        </div>
+
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

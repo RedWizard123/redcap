@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="546517a0-3a2c-47f9-bd13-38c113f55456" name="Default" comment="" />
+    <ignored path="php.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="php" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="query.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/query.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+              <folding>
+                <marker date="1477493542148" expanded="true" signature="371:530" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+                <marker date="1477493542148" expanded="true" signature="371:550" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+                <marker date="1477493542148" expanded="true" signature="371:572" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+                <marker date="1477493542148" expanded="true" signature="371:587" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+                <marker date="1477493542148" expanded="true" signature="371:629" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+                <marker date="1477493542148" expanded="true" signature="371:698" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+                <marker date="1477493542148" expanded="true" signature="1080:1110" ph="SELECT * FRO... RedCap_request" />
+                <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
+                <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
+                <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
+                <marker date="1477493542148" expanded="true" signature="1653:1814" ph="UPDATE `kxvv... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_data.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/svn/get_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <marker date="1474887475991" expanded="true" signature="306:395" ph="SELECT num,t... HUSTgirls_user" />
+                <marker date="1474887475991" expanded="true" signature="732:796" ph="SELECT * FRO... HUSTgirls_user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySQL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySQL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reg.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/php/appiduc02r1d7y4/reg.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="33" column="19" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <marker date="1476558044912" expanded="true" signature="34:108" ph="SELECT * FRO... UniqueStudio_users" />
+                <marker date="1476558044912" expanded="true" signature="264:619" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`UniqueStudio_users`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/query.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="276" />
+    <option name="y" value="86" />
+    <option name="width" value="1400" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/svn/get_data.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\洪志远\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546517a0-3a2c-47f9-bd13-38c113f55456" name="Default" comment="" />
+      <created>1477363863395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477363863395</updated>
+      <workItem from="1477363867848" duration="2571000" />
+      <workItem from="1477408434582" duration="8448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="276" y="86" width="1400" height="839" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16546243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1477493542148" expanded="true" signature="371:530" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:550" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:572" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:587" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:629" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:698" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="1080:1110" ph="SELECT * FRO... RedCap_request" />
+            <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
+            <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
+            <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
+            <marker date="1477493542148" expanded="true" signature="1653:1814" ph="UPDATE `kxvv... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/php/appiduc02r1d7y4/reg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <marker date="1476558044912" expanded="true" signature="34:108" ph="SELECT * FRO... UniqueStudio_users" />
+            <marker date="1476558044912" expanded="true" signature="264:619" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`UniqueStudio_users`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/php/appiduc02r1d7y4/reg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="19" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <marker date="1476558044912" expanded="true" signature="34:108" ph="SELECT * FRO... UniqueStudio_users" />
+            <marker date="1476558044912" expanded="true" signature="264:619" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`UniqueStudio_users`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/svn/get_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1474887475991" expanded="true" signature="306:395" ph="SELECT num,t... HUSTgirls_user" />
+            <marker date="1474887475991" expanded="true" signature="732:796" ph="SELECT * FRO... HUSTgirls_user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding>
+            <marker date="1477493542148" expanded="true" signature="371:530" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:550" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:572" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:587" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:629" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:698" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="1080:1110" ph="SELECT * FRO... RedCap_request" />
+            <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
+            <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
+            <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
+            <marker date="1477493542148" expanded="true" signature="1653:1814" ph="UPDATE `kxvv... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

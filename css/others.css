@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/bg.jpg");
+}
+
+.main-nav-p-div{
+    width:80%;
+    margin:50px auto;
+    text-align:center;
+    color:white;
+    font-size: 24px;
+}
+.main-nav-a-div{
+    width:80%;
+    margin:0 auto;
+    text-align:center;
+    color:white;
+}
+.main-nav-a-div button{
+    display: block;
+    width:50%;
+    min-width: 200px;
+    height:40px;
+    border:0;
+    border-radius: 20px;
+    margin:30px auto;
+    background: linear-gradient(90deg,#1a7dc5 0,#4ec4ce),linear-gradient(90deg,#1a7dc5 0,#4ec4ce);
+    color:white;
+    font-size: 16px;
+    transition: all 0.25s ease-in-out;
+    cursor: pointer;
+}

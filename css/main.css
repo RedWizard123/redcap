@@ -1,0 +1,126 @@
+
+body{
+    padding:0;
+    margin:0;
+    font-family: "Microsoft YaHei";
+    background-color: #d6d6d6;
+
+}
+p{
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+a{
+    text-decoration: none;
+    color:#d6d6d6;
+}
+a:link,a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color:white;
+}
+ul,p{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+.icon-redcap-img{
+
+    height:50px;
+}
+
+header{
+    width:100%;
+    height: 50px;
+    background-color: black;
+    position: fixed;
+    top:0;
+}
+.header-nav-bar-div{
+    position: relative;
+}
+.header-nav-bar-ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width:100%;
+}
+.header-nav-bar-ul-li p{
+    color:white;
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
+}
+.header-menu-line-div{
+    background-color: white;
+    height: 2px;
+    width:30px;
+    margin:6px 0 6px 10px;
+    border-radius: 2px;
+    position: relative;
+    top:16px;
+    transition: all 0.5s ease-in-out;
+}
+.header-nav-bar-ul-li ul{
+    transition: all 0.5s ease-in-out ;
+    cursor: pointer;
+    height:50px;
+    margin-top: -6px;
+    width:45px;
+}
+/*.header-nav-bar-ul-li ul:hover{
+    opacity: 0.6;
+    background-color: rgb(66,66,66);
+}*/
+.header-menu-main-div{
+    width:100%;
+    position: absolute;
+    top:50px;
+    z-index:9999;
+    background-color: black;
+    height: 0;
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+    overflow: hidden;
+}
+.header-menu-main-ul{
+    color:white;
+    font-size: 16px;
+}
+.header-menu-main-ul li{
+    width: 100%;
+    padding:10px 0;
+    cursor: pointer;
+    transition: all 0.25s ease-in-out;
+}
+.header-menu-main-ul li:hover{
+    background-color: rgb(125,125,125);
+}
+.header-menu-main-ul a{
+    width:100%;
+}
+
+.header-menu-main-ul a:hover{
+    text-decoration: none;
+    color:#d6d6d6;
+}
+.change1{
+    transform-origin: 0 0 0;
+    transform: rotate(32deg);
+    transition: transform 0.5s ease-in-out;
+}
+.change2{
+    transform-origin: 0 0 0;
+    transform: rotate(-32deg);
+    transition: transform 0.5s ease-in-out;
+
+}
+.change3{
+    opacity: 0;
+}
