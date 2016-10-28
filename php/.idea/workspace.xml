@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="546517a0-3a2c-47f9-bd13-38c113f55456" name="Default" comment="" />
+    <list default="true" id="546517a0-3a2c-47f9-bd13-38c113f55456" name="Default" comment="" />
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,8 +24,8 @@
       <file leaf-file-name="query.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/query.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            <state relative-caret-position="-853">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <marker date="1477493542148" expanded="true" signature="371:530" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
                 <marker date="1477493542148" expanded="true" signature="371:550" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
@@ -37,7 +37,6 @@
                 <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
                 <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
                 <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
-                <marker date="1477493542148" expanded="true" signature="1653:1814" ph="UPDATE `kxvv... " />
               </folding>
             </state>
           </provider>
@@ -46,7 +45,7 @@
       <file leaf-file-name="get_data.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/svn/get_data.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="68">
               <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
                 <marker date="1474887475991" expanded="true" signature="306:395" ph="SELECT num,t... HUSTgirls_user" />
@@ -69,7 +68,7 @@
       <file leaf-file-name="reg.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/php/appiduc02r1d7y4/reg.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="561">
               <caret line="33" column="19" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
               <folding>
                 <marker date="1476558044912" expanded="true" signature="34:108" ph="SELECT * FRO... UniqueStudio_users" />
@@ -96,8 +95,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="86" />
+    <option name="x" value="312" />
+    <option name="y" value="98" />
     <option name="width" value="1400" />
     <option name="height" value="839" />
   </component>
@@ -172,15 +171,16 @@
       <updated>1477363863395</updated>
       <workItem from="1477363867848" duration="2571000" />
       <workItem from="1477408434582" duration="8448000" />
+      <workItem from="1477633868459" duration="1243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11019000" />
+    <option name="totallyTimeSpent" value="12262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="86" width="1400" height="839" extended-state="1" />
-    <editor active="true" />
+    <frame x="312" y="98" width="1400" height="839" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16546243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -232,7 +232,55 @@
             <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
             <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
             <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
-            <marker date="1477493542148" expanded="true" signature="1653:1814" ph="UPDATE `kxvv... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/svn/get_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1474887475991" expanded="true" signature="306:395" ph="SELECT num,t... HUSTgirls_user" />
+            <marker date="1474887475991" expanded="true" signature="732:796" ph="SELECT * FRO... HUSTgirls_user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/php/appiduc02r1d7y4/reg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="19" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <marker date="1476558044912" expanded="true" signature="34:108" ph="SELECT * FRO... UniqueStudio_users" />
+            <marker date="1476558044912" expanded="true" signature="264:619" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`UniqueStudio_users`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1477493542148" expanded="true" signature="371:530" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:550" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:572" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:587" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:629" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="371:698" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
+            <marker date="1477493542148" expanded="true" signature="1080:1110" ph="SELECT * FRO... RedCap_request" />
+            <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
+            <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
+            <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
           </folding>
         </state>
       </provider>
@@ -258,7 +306,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/php/appiduc02r1d7y4/reg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="561">
           <caret line="33" column="19" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="19" />
           <folding>
             <marker date="1476558044912" expanded="true" signature="34:108" ph="SELECT * FRO... UniqueStudio_users" />
@@ -277,7 +325,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/svn/get_data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="68">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
             <marker date="1474887475991" expanded="true" signature="306:395" ph="SELECT num,t... HUSTgirls_user" />
@@ -288,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/query.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        <state relative-caret-position="-853">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <marker date="1477493542148" expanded="true" signature="371:530" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
             <marker date="1477493542148" expanded="true" signature="371:550" ph="INSERT INTO `kxvvFqSopwFJKrIMEjPT`.`RedCap_request`... " />
@@ -301,7 +349,6 @@
             <marker date="1477493542148" expanded="true" signature="1372:1419" ph="SELECT * FRO... RedCap_request" />
             <marker date="1477493542148" expanded="true" signature="1653:1732" ph="UPDATE `kxvv... " />
             <marker date="1477493542148" expanded="true" signature="1653:1735" ph="UPDATE `kxvv... " />
-            <marker date="1477493542148" expanded="true" signature="1653:1814" ph="UPDATE `kxvv... " />
           </folding>
         </state>
       </provider>
